@@ -2,8 +2,8 @@
 Programa feito em PHP para help desk
 
 ## Tecnologias 
-*PHP
-*HTML
-*CSS
-*Boostrap
+* PHP
+* HTML
+* CSS
+* Boostrap
 
