@@ -1,4 +1,11 @@
-<html>
+<?php
+  session_start();
+  if(!isset($_SESSION['autenticado']) || $_SESSION['autenticado'] != 'SIM'){
+    header('Location: index.php?login=erro2');
+  }
+?>
+<!DOCTYPE html>
+<html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
     <title>App Help Desk</title>
@@ -29,7 +36,7 @@
         <div class="card-home">
           <div class="card">
             <div class="card-header">
-              Menu
+              Menu 
             </div>
             <div class="card-body">
               <div class="row">

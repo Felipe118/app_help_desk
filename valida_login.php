@@ -1,5 +1,5 @@
-<?php
-
+<?php 
+    session_start();
 //VARIAVEL QUE VERIFICA SE A AUTENTICAÇÃO FOI REALIZADA
 $usuario_autenticado = false;
 
