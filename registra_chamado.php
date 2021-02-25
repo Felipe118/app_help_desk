@@ -1,7 +1,5 @@
 <?php
 
-
-
 $arquivo = fopen('arquivo.hd','a');
 $titulo = str_replace('#','-', $_POST['titulo'] );
 $categoria = str_replace('#','-', $_POST['categoria'] );
