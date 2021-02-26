@@ -13,7 +13,7 @@ $usuarios_app = array(
     array('id' => 1, 'email' => 'adm@teste.com.br', 'senha' => '123456', 'perfil_id' => 1),
     array('id' => 2, 'email' => 'user@teste.com.br', 'senha' => 'abcd','perfil_id' => 1 ),
     array('id' => 3, 'email' => 'luis@teste.com.br', 'senha' => '123' ,'perfil_id' => 2),
-    array('id' => 4, 'email' => 'ze@teste.com.br', 'senha' => 'ze' , 'perfil_id' => 2)
+    array('id' => 4, 'email' => 'jose@teste.com.br', 'senha' => 'jose' , 'perfil_id' => 2)
 );
 
 
