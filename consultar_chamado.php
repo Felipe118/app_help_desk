@@ -6,6 +6,7 @@
 
   //chamados
   $chamados = array();
+  //$arquivo = fopen('../../app_help_desk/arquivo.hd', 'r');
   $arquivo = fopen('arquivo.hd', 'r');
 
   while(!feof($arquivo)){
