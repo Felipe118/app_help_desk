@@ -15,5 +15,5 @@ valida_login.php, e fazer chamados para problemas e salvar e verificar os chamad
 
 ### Mudanças que serão feitas
 * Adicionar um banco de dados MySQL 
-* corrigir ulguns bugs, utilizar mensagens para validação de dados.
+* corrigir alguns bugs, utilizar mensagens para validação de dados.
 * melhorar o front-end deixando mais vistoso
