@@ -6,8 +6,11 @@ class Conexao{
     private $user = 'root';
     private $pass = '';
 
-    public function connect(){
-        
+    try(){
+        public function PDO();
+
+    }catch(PDOException $e){
+
     }
 }
 
